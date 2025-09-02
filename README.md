@@ -1,33 +1,38 @@
-# Snake Game 🐍
+# 🐍 Snake Game in Python
 
-A classic Snake game built in Python using the `turtle` module. The snake grows as it eats food, and the game keeps track of the score and the highest score.
+> Classic Snake game brought to life using Python's `turtle` module!  
+> Eat the blue food, grow your snake, and beat your high score! 🏆
 
----
-
-## Features
-
-- Simple and fun classic Snake gameplay
-- Snake grows when eating food
-- Score tracking with high score saved in `data.txt`
-- Game over when hitting the wall or your own tail
-- Arrow keys to control the snake
+![Snake Game Banner](https://media.giphy.com/media/3o7TKF0dRkz1FfjQxC/giphy.gif)  
 
 ---
 
-## Files
+## 🎮 Features
 
-- **main.py** — Main game loop  
-- **snake.py** — Snake class, handles movement and growth  
-- **food.py** — Food class, handles food placement  
-- **score_board.py** — Scoreboard class, handles scoring  
-- **data.txt** — Stores high score  
+- ✅ Fun and addictive classic Snake gameplay  
+- ✅ Snake grows when eating food  
+- ✅ Score tracking with high score saved in `data.txt`  
+- ✅ Game over on hitting walls or self  
+- ✅ Smooth controls with **arrow keys**  
 
 ---
 
-## How to Run
+## 🗂 Project Structure
 
-1. Make sure Python 3.8+ is installed.  
-2. Clone or download the project.  
+| File | Description |
+|------|-------------|
+| `main.py` | Main game loop |
+| `snake.py` | Snake class for movement and growth |
+| `food.py` | Food class for random placement |
+| `score_board.py` | Handles score display and high score |
+| `data.txt` | Stores the highest score |
+
+---
+
+## 🚀 How to Play
+
+1. Ensure Python 3.8+ is installed.  
+2. Clone this repository or download the ZIP.  
 3. Run the game:
 
 ```bash
