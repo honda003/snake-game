@@ -37,3 +37,21 @@
 
 ```bash
 python main.py
+```
+4. Use the arrow keys to control your snake:
+⬆ Up
+⬇ Down
+⬅ Left
+➡ Right
+5. Eat the blue food to grow and gain points.
+6. Avoid walls and your own tail!
+
+## 📈 High Scores
+
+Your current score and highest score are tracked automatically in data.txt
+Beat your friends’ scores and aim for the top! 🥇
+
+## ❤️ Enjoy the Game!
+
+This project is perfect for beginners learning Python, or anyone wanting a fun coding break.
+Fork it, play it, and maybe add your own twists! 🐍✨
