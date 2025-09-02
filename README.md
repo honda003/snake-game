@@ -49,9 +49,11 @@ python main.py
 ## 📈 High Scores
 
 Your current score and highest score are tracked automatically in data.txt
+
 Beat your friends’ scores and aim for the top! 🥇
 
 ## ❤️ Enjoy the Game!
 
 This project is perfect for beginners learning Python, or anyone wanting a fun coding break.
+
 Fork it, play it, and maybe add your own twists! 🐍✨
